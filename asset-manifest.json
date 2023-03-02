@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/carousel-nav/static/css/main.8fe533b1.css",
+    "main.js": "/carousel-nav/static/js/main.82bf274b.js",
+    "static/js/787.0ee10cef.chunk.js": "/carousel-nav/static/js/787.0ee10cef.chunk.js",
+    "static/media/nike1_.jpg": "/carousel-nav/static/media/nike1_.1a0c696b8772bf3af175.jpg",
+    "static/media/revicons.eot": "/carousel-nav/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/carousel-nav/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/carousel-nav/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/carousel-nav/index.html",
+    "main.8fe533b1.css.map": "/carousel-nav/static/css/main.8fe533b1.css.map",
+    "main.82bf274b.js.map": "/carousel-nav/static/js/main.82bf274b.js.map",
+    "787.0ee10cef.chunk.js.map": "/carousel-nav/static/js/787.0ee10cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe533b1.css",
+    "static/js/main.82bf274b.js"
+  ]
+}
